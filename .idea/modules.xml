@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.laugh.solovm.iml" filepath="$PROJECT_DIR$/.idea/modules/com.laugh.solovm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.laugh.solovm_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.laugh.solovm_main.iml" group="com.laugh.solovm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.laugh.solovm_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.laugh.solovm_test.iml" group="com.laugh.solovm" />
+    </modules>
+  </component>
+</project>
