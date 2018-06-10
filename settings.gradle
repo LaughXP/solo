@@ -1,2 +1,3 @@
-rootProject.name = 'com.laugh.solovm'
+rootProject.name = 'com.laugh.solo'
+include 'solo-start'
 
